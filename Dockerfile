@@ -8,7 +8,7 @@ automake \
 libtool \
 liblightdm-gobject-dev \
 libgtk-3-dev \
-libwebkitgtk-3.0-dev \
+libwebkit2gtk-4.0-dev \
 libdbus-glib-1-dev \
 curl \
 tar \
